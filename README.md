@@ -4,6 +4,7 @@
 - **Email:** [mantraraj.dash@gmail.com](mailto:mantraraj.dash@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mantraraj](https://linkedin.com/in/mantraraj)
 
+<img align="left" width="80" height="80" src="placeholder-gist" alt="Summary">
 ## Professional Summary
 
 ![Summary](path/to/summary_icon.png)
