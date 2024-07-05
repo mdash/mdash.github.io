@@ -1,9 +1,5 @@
 # Data Scientist
 
-## Contact
-- **Email:** [mantraraj.dash@gmail.com](mailto:mantraraj.dash@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mantraraj](https://linkedin.com/in/mantraraj)
-
 ## Professional Summary
 
 ![Summary](path/to/summary_icon.png)
