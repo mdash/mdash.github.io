@@ -1,5 +1,9 @@
 # Data Scientist
 
+## Contact
+- **Email:** [mantraraj.dash@gmail.com](mailto:mantraraj.dash@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mantraraj](https://linkedin.com/in/mantraraj)
+
 ## Professional Summary
 
 ![Summary](path/to/summary_icon.png)
@@ -76,4 +80,3 @@ Advanced Data Science Consultant with over 8 years of experience in data science
 - Data Mining
 - Large Language Models (LLM)
 - Decision Sciences
-
