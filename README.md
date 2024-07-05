@@ -1,6 +1,6 @@
 # Data Scientist
 
-<img align="left" width="20" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/contact.svg" alt="Contact">
+<img align="left" width="40" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/contact.svg" alt="Contact">
 
 ## Contact
 
