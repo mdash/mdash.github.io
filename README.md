@@ -1,14 +1,19 @@
 # Data Scientist
 
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/contact.svg" alt="Contact">
+
 ## Contact
+
 - **Email:** [mantraraj.dash@gmail.com](mailto:mantraraj.dash@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mantraraj](https://linkedin.com/in/mantraraj)
 
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/summary.svg" alt="Contact">
+
 ## Professional Summary
 
-![Summary](path/to/summary_icon.png)
-
 Advanced Data Science Consultant with over 8 years of experience in data science and machine learning, specializing in analytics of big real-world datasets. Proven expertise in leading teams, developing data-driven solutions, and collaborating with cross-functional teams to drive strategic initiatives. Skilled in Python, SQL, data modeling, and data visualization. Adept at communicating complex insights and business impact/implications of ML/AI solutions to both technical and non-technical stakeholders.
+
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/tools.svg" alt="Contact">
 
 ## Experience
 
@@ -44,9 +49,9 @@ Advanced Data Science Consultant with over 8 years of experience in data science
   - Customer segmentation for a breakthrough brand launching in multiple markets.
   - Optimized sales force touchpoints to effectively target the right customers.
 
-## Technical Expertise
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/technical_expertise.svg" alt="Contact">
 
-![Technical Skills](path/to/technical_skills_icon.png)
+## Technical Expertise
 
 - **Programming Languages:** Python, PySpark, SQL
 - **Tools & Frameworks:** Azure Databricks, MS Suite, Spark, PyTorch, TensorFlow
@@ -54,22 +59,22 @@ Advanced Data Science Consultant with over 8 years of experience in data science
 - **NLP:** Pre-trained LMs (BART, RoBERTa), Use of LLMs (such as Llama2, GPT models) using LangChain for developing entity recognition, summarization, information extraction, content generation, RAG based Q&A solutions
 - **Data Modeling and Visualization:** Proficient in creating dashboards and visualizations to communicate data insights effectively to several different stakeholders, including non-technical (sales, marketing, and other business) teams
 
-## Education
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/education.svg" alt="Contact">
 
-![Education](path/to/education_icon.png)
+## Education
 
 - **Bachelor of Technology** - NIT Trichy, India
 
-## Certifications
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/certifications.svg" alt="Contact">
 
-![Certifications](path/to/certifications_icon.png)
+## Certifications
 
 - **Data Science Nanodegree** - Udacity
 - **Machine Learning Specialization** - Coursera (University of Washington)
 
-## Skills
+<img align="left" width="50" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/skills.svg" alt="Contact">
 
-![Skills](path/to/skills_icon.png)
+## Skills
 
 - Team Leadership
 - Senior Executive Communication
