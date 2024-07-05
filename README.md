@@ -1,7 +1,9 @@
 # Data Scientist
 
 <img align="left" width="20" src="https://raw.githubusercontent.com/mdash/mdash.github.io/dev/assets/img/contact.svg" alt="Contact">
+
 ## Contact
+
 - **Email:** [mantraraj.dash@gmail.com](mailto:mantraraj.dash@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mantraraj](https://linkedin.com/in/mantraraj)
 
