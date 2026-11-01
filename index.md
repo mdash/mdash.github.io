@@ -8,18 +8,18 @@ title: Mantraraj Dash
     <p class="eyebrow">Senior Data Science &amp; AI Leader</p>
     <h1>Mantraraj Dash</h1>
     <p class="lead">
-      9+ years of experience leading data science, machine learning, and agentic AI initiatives
+      10 years of experience leading data science, machine learning, and agentic AI initiatives
       across regulated domains. Specialized in designing and scaling GenAI systems, RAG
       applications, and end-to-end ML products with measurable business impact.
     </p>
     <div class="hero__actions">
-      <a class="btn btn--primary" href="mailto:mantraraj.dash@gmail.com">Contact</a>
+      <a class="btn btn--primary" href="mailto:{{ site.contact_email }}">Contact</a>
       <a class="btn btn--ghost" href="https://linkedin.com/in/mantraraj">LinkedIn</a>
       <a class="btn btn--ghost" href="https://github.com/mdash">GitHub</a>
     </div>
     <div class="hero__meta">
       <span>London, UK</span>
-      <span>mantraraj.dash@gmail.com</span>
+      <span>{{ site.contact_email }}</span>
     </div>
   </div>
   <div class="hero__card">
@@ -45,7 +45,7 @@ title: Mantraraj Dash
   </div>
   <div class="grid grid--4">
     <div class="card">
-      <h3>9+ Years</h3>
+      <h3>10 Years</h3>
       <p>Hands-on experience in data science, ML, and AI program delivery.</p>
     </div>
     <div class="card">
@@ -204,7 +204,7 @@ title: Mantraraj Dash
     <p>Open to collaborations, speaking, and strategic AI engagements.</p>
   </div>
   <div class="footer__links">
-    <a href="mailto:mantraraj.dash@gmail.com">Email</a>
+    <a href="mailto:{{ site.contact_email }}">Email</a>
     <a href="https://linkedin.com/in/mantraraj">LinkedIn</a>
     <a href="https://github.com/mdash">GitHub</a>
   </div>
