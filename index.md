@@ -15,6 +15,7 @@ title: Mantraraj Dash
     <div class="hero__actions">
       <a class="btn btn--primary" href="mailto:mantraraj.dash@gmail.com">Contact</a>
       <a class="btn btn--ghost" href="https://linkedin.com/in/mantraraj">LinkedIn</a>
+      <a class="btn btn--ghost" href="https://github.com/mdash">GitHub</a>
     </div>
     <div class="hero__meta">
       <span>London, UK</span>
@@ -116,7 +117,7 @@ title: Mantraraj Dash
 <section class="section">
   <div class="section__header">
     <h2>Featured Projects</h2>
-    <p>Add or link to project case studies to demonstrate impact and expertise.</p>
+    <p>Selected client engagements.</p>
   </div>
   <div class="grid grid--3">
     <article class="card card--project">
@@ -130,7 +131,6 @@ title: Mantraraj Dash
         <span>Clinical Data</span>
         <span>RAG</span>
       </div>
-      <a class="link" href="#">Add project link →</a>
     </article>
     <article class="card card--project">
       <h3>Enterprise Knowledge Chatbot</h3>
@@ -142,7 +142,6 @@ title: Mantraraj Dash
         <span>RAG</span>
         <span>Search</span>
       </div>
-      <a class="link" href="#">Add project link →</a>
     </article>
     <article class="card card--project">
       <h3>AI Roadmap &amp; Portfolio Build</h3>
@@ -154,39 +153,11 @@ title: Mantraraj Dash
         <span>AI Transformation</span>
         <span>Leadership</span>
       </div>
-      <a class="link" href="#">Add project link →</a>
     </article>
   </div>
 </section>
 
 <section class="section section--alt">
-  <div class="section__header">
-    <h2>Latest Writing</h2>
-    <p>Placeholder slots for blog posts, articles, or conference talks.</p>
-  </div>
-  <div class="grid grid--3">
-    <article class="card card--post">
-      <h3>Designing Agentic AI Systems in Regulated Domains</h3>
-      <p class="muted">Blog · TBD</p>
-      <p>Short excerpt to summarize your point of view and insights.</p>
-      <a class="link" href="#">Add blog link →</a>
-    </article>
-    <article class="card card--post">
-      <h3>RAG Evaluation Loops: What Actually Works</h3>
-      <p class="muted">Article · TBD</p>
-      <p>Space to describe your approach and key takeaways.</p>
-      <a class="link" href="#">Add blog link →</a>
-    </article>
-    <article class="card card--post">
-      <h3>Scaling GenAI Programs Across Global Teams</h3>
-      <p class="muted">Talk · TBD</p>
-      <p>Highlight your leadership perspective and execution playbook.</p>
-      <a class="link" href="#">Add blog link →</a>
-    </article>
-  </div>
-</section>
-
-<section class="section">
   <div class="section__header">
     <h2>Technical Expertise</h2>
     <p>Core stack and focus areas.</p>
@@ -207,7 +178,7 @@ title: Mantraraj Dash
   </div>
 </section>
 
-<section class="section section--alt">
+<section class="section">
   <div class="section__header">
     <h2>Education &amp; Certifications</h2>
     <p>Academic background and credentials.</p>
@@ -235,6 +206,6 @@ title: Mantraraj Dash
   <div class="footer__links">
     <a href="mailto:mantraraj.dash@gmail.com">Email</a>
     <a href="https://linkedin.com/in/mantraraj">LinkedIn</a>
-    <a href="#">Add GitHub</a>
+    <a href="https://github.com/mdash">GitHub</a>
   </div>
 </footer>

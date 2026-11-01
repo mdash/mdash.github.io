@@ -3,3 +3,6 @@ description: Senior Data Science and AI Leader specializing in agentic AI system
 logo: /assets/img/profile_img.png
 show_downloads: false
 theme: jekyll-theme-minimal
+tagline: Senior Data Science & AI Leader
+exclude:
+  - README.md
