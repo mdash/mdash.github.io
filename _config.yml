@@ -6,6 +6,6 @@ theme: jekyll-theme-minimal
 tagline: Senior Data Science & AI Leader
 exclude:
   - README.md
-# Public contact address used across the site. Placeholder for now:
-# replace with an Apple "Hide My Email" relay address.
+# Public contact address used across the site (Apple "Hide My Email" relay).
+# Change it here only; pages read it from site.contact_email.
 contact_email: decent.centre.7m@icloud.com
