@@ -123,7 +123,7 @@ title: Mantraraj Dash
     <article class="card card--project">
       <h3>Agentic Clinical Data Transformation</h3>
       <p>
-        Automation workflow for data standardization and R code generation with 30–40% efficiency
+        Automation workflow for data standardization and R code generation with 20–30% efficiency
         gains.
       </p>
       <div class="tag-row">
